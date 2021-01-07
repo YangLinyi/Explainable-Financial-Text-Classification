@@ -1,6 +1,8 @@
 # Explainable-Financial-Text-Classification
 Repository for COLING-20 Paper: Generating Plausible Counterfactual Explanations for Mergers and Acquisitions Prediction (M&amp;A)
 
+
+
 If you find this repository help your research, please consider cite our following paper:
     
     @inproceedings{Yang2020GeneratingPC,
